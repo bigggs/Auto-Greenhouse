@@ -16,7 +16,6 @@ Microprocessor code: main.ino
   <img src="https://i.imgur.com/nd6VHNa.jpg"><br>
   <img src="https://i.imgur.com/wzMAObZ.jpg"><br>
 <h1> Parts Used </h1>
-<h2>Portal Page </h2>
 <br>
 <h1>ESP8266 Microprosessor</h1><br>
 <h1>Water pump<h1><br>
